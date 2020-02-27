@@ -1,2 +1,3 @@
-# Scracth-beadando
-Ez a Scratch beadandó 
+Tamás Ádám
+==========
+Ez a Scratch beadandó.
